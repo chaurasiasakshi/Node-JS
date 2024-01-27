@@ -1,0 +1,14 @@
+Using import module  we selectively load  the required modules 
+// for this particular example. In a real-world scenario, you would likely want to
+// include all of the modules in your application.js file instead.
+
+
+--> import {sum} from "./math.js"
+---> export the function
+export const add = (a, b) => sum(a, b);
+in package.json add -->  "type": "module",
+
+
+IMPORTANT --> loading Synchronous for "require" and Asynchronous for "import"
+
+In Node.js, there are two ways to load JavaScript files: synchronously using require()

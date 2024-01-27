@@ -17,3 +17,16 @@ Pre install with node
 - Main : it is the entry point of your program .
  It tells node which file to execute first when we run our program using node command in terminal or cmd.
 
+npm intall --> install all the dependencies  mentioned in package.json file
+
+npm install figlet
+npm install give-me-a-joke
+
+Local VS Global
+LOCAL -->  npm install  <package name>
+
+
+GLOBAL -->  npm install -g <package name>
+for access we  use following commands
+
+npm link <package name>
