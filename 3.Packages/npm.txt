@@ -1,0 +1,19 @@
+NPM Node Package Manager
+
+library of Package
+ex -- express , react 
+command line tool 
+Pre install with node
+
+
+1> node_module --> contain every installed dependency 
+
+2> Package-lock.json --> version of insatll dependency
+
+3> Package.json file --> descriptive and functional metadata about a project 
+- name : give the name to your package
+- Version: give the version number for your application
+- Description: Give the description about your app
+- Main : it is the entry point of your program .
+ It tells node which file to execute first when we run our program using node command in terminal or cmd.
+
