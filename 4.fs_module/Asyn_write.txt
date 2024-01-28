@@ -1,0 +1,1 @@
+Asynchronous execution doesn’t wait for the task to complete and can move on to the next task.  also known as “non-blocking”.
