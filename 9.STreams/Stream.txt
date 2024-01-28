@@ -1,0 +1,5 @@
+Streams means 'real time' like listening music or watching videos
+instead of downloading a file to your computer and watching it later.
+
+
+Streams is EventEmittefa-rotate-180
