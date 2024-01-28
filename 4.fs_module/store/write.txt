@@ -1,0 +1,1 @@
+CRUD using cmd line we can use crud operation by cmd line
