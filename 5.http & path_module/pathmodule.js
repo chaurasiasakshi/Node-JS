@@ -5,4 +5,6 @@ console.log(path.dirname('C:/Users/saksh/OneDrive/Documents/GitHub/Node JS/Node-
 console.log(path.extname('C:/Users/saksh/OneDrive/Documents/GitHub/Node JS/Node-JS/5.http & path_module/pathmodule.js'));
 
 
-console.log(path.parse("C:/Users/saksh/OneDrive/Documents/GitHub/Node JS/Node-JS/5.http & path_module/pathmodule.js"));
+const mypath = path.parse("C:/Users/saksh/OneDrive/Documents/GitHub/Node JS/Node-JS/5.http & path_module/pathmodule.js");
+
+console.log(mypath.root);
