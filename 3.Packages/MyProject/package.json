@@ -8,8 +8,11 @@
   },
   "author": "sakshi chaurasia",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
+    "chalk": "^5.3.0",
     "figlet": "^1.7.0",
-    "give-me-a-joke": "^0.5.1"
+    "give-me-a-joke": "^0.5.1",
+    "validator": "^13.11.0"
   }
 }
